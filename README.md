@@ -13,6 +13,6 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/fabiha-shahzad-25292a268/)
-[![](https://img.shields.io/badge/website-6364ff)](https://fabiha.surge.sh/)
+[![](https://img.shields.io/badge/website-6364ff)](https://fabiha.live/)
 
 </div>
